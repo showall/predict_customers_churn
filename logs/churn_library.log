@@ -1,0 +1,5 @@
+root - INFO - import_test : SUCCESS
+root - INFO - eda_test : SUCCESS - Process EDA completed
+root - INFO - encoder_helper_test : SUCCESS-Encoded dataframe fixture creation
+root - INFO - perform_feature_engineering_test : SUCCESS -  Feature_engineering successfully completed
+root - INFO - test_train_models :  SUCCESS - Models were trained
